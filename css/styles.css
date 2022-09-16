@@ -2793,7 +2793,7 @@ img.u-pull-left {
 }
 
 .section-header--dark .lead {
-    color : rgba(255, 255, 255, 0.35);
+    color : white;
 }
 
 .section-header--dark.has-bottom-sep::before {
@@ -3567,6 +3567,7 @@ img.u-pull-left {
 
 .service-item {
     margin-bottom : var(--vspace-0_5);
+    color         : white;
 }
 
 .service-item h3 {
